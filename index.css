@@ -1,0 +1,234 @@
+
+
+#blueStreet {
+z-index: -5;
+position: fixed;
+  }
+h2 {
+  position: fixed; 
+  z-index: 2;
+  top: -20px; 
+  left: 0px;
+  width: 100%; 
+  height: 11%;
+  color: rgb(154, 220, 223);
+  filter: brightness(60%);
+  
+}
+
+h4 {
+  position: fixed; 
+  z-index: 1;
+  top: -20px; 
+  left: 0px;
+  height: 100%; 
+  filter: brightness(60%);
+}
+
+h3 {
+left: 50%;
+  top: 0%;
+  color: rgb(154, 220, 223);
+position: fixed; 
+  z-index: 3;
+  font-size: 20px; 
+}
+
+#brick {
+  position: fixed; 
+  z-index: 1;
+  top: -20px; 
+  left: 0px;
+  height: 100%; 
+color: green;
+  }
+
+#home {
+  position: fixed; 
+  font-weight: bold;
+  z-index: 3;
+  left: 17%;
+  bottom: 92%;
+  font-size: 25px; 
+  color: rgb(154, 220, 223);
+  border: none; 
+ background-color: transparent;
+}
+
+
+#home :link {
+  color: rgb(154, 220, 223);
+}
+#home :visited {
+    color: rgb(154, 220, 223);
+}
+#home :hover {
+      color: white;
+}
+#home :active {
+      color: rgb(154, 220, 223);
+}
+#contact {
+  position: fixed; 
+  z-index: 3;
+  left: 37%;
+  font-size: 25px; 
+  font-weight: bold;
+  color: rgb(154, 220, 223);
+  border: none; 
+  background-color: transparent;
+}
+#contact :link {
+  color: rgb(154, 220, 223);
+}
+#contact :visited {
+    color: rgb(154, 220, 223);
+}
+#contact :hover {
+      color: white;
+}
+#contact :active {
+      color: rgb(154, 220, 223);
+}
+#aboutMe {
+  position: fixed; 
+  z-index: 3;
+  left: 59%;
+  font-size: 25px; 
+  font-weight: bold;
+  color: rgb(154, 220, 223);
+  border: none; 
+  background-color: transparent;
+}
+#aboutMe :link {
+color: rgb(154, 220, 223);
+}
+#aboutMe :visited {
+  color: rgb(154, 220, 223);
+}
+#aboutMe :hover {
+    color: white;
+}
+#aboutMe :active {
+    color: rgb(154, 220, 223);
+}
+#cSSCreature {
+  position: fixed; 
+  z-index: 3;
+  left: 0.5%;
+  top: 15%;
+  font-size: 20px; 
+  font-weight: bold;
+  color: rgb(154, 220, 223);
+  border: none; 
+  background-color: transparent;
+}
+#cSSCreature :link {
+color: rgb(154, 220, 223);
+}
+#cSSCreature :visited {
+  color: rgb(154, 220, 223);
+}
+#cSSCreature :hover {
+    color: white;
+}
+#cSSCreature :active {
+    color: rgb(154, 220, 223);
+}
+#tutorialWebpage {
+  background-color: transparent;
+  position: fixed; 
+  z-index: 3;
+  left: 0.1%;
+  top: 42.5%;
+  font-size: 16px; 
+  font-weight: bold;
+  color: rgb(154, 220, 223);
+  border: none;
+}
+#tutorialWebpage :link {
+color: rgb(154, 220, 223);
+}
+#tutorialWebpage :visited {
+  color: rgb(154, 220, 223);
+}
+#tutorialWebpage :hover {
+    color: white;
+}
+#tutorialWebpage :active {
+    color: rgb(154, 220, 223);
+}
+#aPIProject {
+  background-color: transparent;
+  position: fixed; 
+  z-index: 3;
+  left: 0.5%;
+  top: 69%;
+  font-size: 20px; 
+  font-weight: bold;
+  color: rgb(154, 220, 223);
+  border: none;
+}
+#aPIProject :link {
+color: rgb(154, 220, 223);
+}
+#aPIProject :visited {
+  color: rgb(154, 220, 223);
+}
+#aPIProject :hover {
+    color: white;
+}
+#aPIProject :active {
+    color: rgb(154, 220, 223);
+}
+#titleTag {
+  font-size: 40px;
+  text-align: right;
+  position: relative;
+  z-index: -6;
+}
+#aboutMe2 {
+  background-color: transparent;
+  position: relative; 
+  z-index: 3;
+  left: 0.5%;
+  top: 69%;
+  font-size: 20px; 
+  font-weight: bold;
+  color: rgb(154, 220, 223);
+  border: none;
+}
+h1 {
+  text-align: right;
+  position: relative;
+  z-index: -4;
+}
+.austinCollis {
+  position: relative;
+  top: 50px;
+  right: 2px;
+  background-color: transparent;
+  color: rgb(154, 220, 223);
+  padding-left: 625px;
+  padding-right: 20px;
+  text-shadow: 2px 2px black;
+  width: 700px;
+  margin: 0px 0px 100px 0px;
+}
+.button {
+  background-color: transparent;
+  background-repeat: no-repeat;
+  font: none;
+}
+.CSSAnimation {
+  
+}
+
+.scrappy {
+  width: 50%;
+  height: 50%;
+}
+
+.card-text1 {
+  
+}
